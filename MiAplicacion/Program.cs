@@ -18,7 +18,7 @@ namespace MiAplicacion
                         Console.WriteLine("----------------------------------------------------------------------------------------");
                         Console.WriteLine("---Bienvenido al sistema de calculo de nomina Seccion 777 de Programacion Estructurda---");
                         Console.WriteLine("----------------------------------------------------------------------------------------");
-                        Console.WriteLine("---Alberto Pancracio          1-06-9999-------------------------------------------------");
+                        Console.WriteLine("---Alberto Araugi             1-06-6666-------------------------------------------------");
                         Console.WriteLine("---Maria la del barrio        1-88-6666-------------------------------------------------");
                         Console.WriteLine("---Franklin Araugo            2-99-8887-------------------------------------------------");
                         Console.WriteLine("----------------------------------------------------------------------------------------");
